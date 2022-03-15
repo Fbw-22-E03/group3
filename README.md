@@ -12,7 +12,7 @@ Favourite Food: Pizza
 
 
 
-
+---
 
 
 # Sergey Zharkov #
@@ -23,3 +23,14 @@ favourite restaurants:
   - pizza restaurant
   - pasta restaurant
   - dance restaurant
+  
+  
+  ---
+  
+  
+  # Alwaki
+### Abdulla Alwaki 25
+### Red
+### Arabic
+- My Mother food 
+- Shawarma
